@@ -1,1 +1,5 @@
-# Imagine__POS
+![feature graphic - fr ](https://github.com/FRsyesCD/Imagine__POS/assets/61872358/aea46132-ff84-458f-9b83-135ddcf1015e)
+![screen_1 - fr ](https://github.com/FRsyesCD/Imagine__POS/assets/61872358/34955f7e-3d68-4886-94dc-be434d77253e)
+![screen_2 - fr ](https://github.com/FRsyesCD/Imagine__POS/assets/61872358/bb1ab31f-4d65-494c-a50e-d1179e449eff)
+![screen_3 - fr ](https://github.com/FRsyesCD/Imagine__POS/assets/61872358/0bb31f07-f718-4df3-8d9c-7d3037ec581e)
+![screen_4 - fr ](https://github.com/FRsyesCD/Imagine__POS/assets/61872358/00f0892e-28a8-4d8c-a116-408f31517eaa)
